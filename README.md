@@ -1,10 +1,6 @@
 # Olá sou Herika-Neves
-Sou estudante de Análise e Desenvolvimento de Sistemas 🎓💻🤖
+Estudante de Análise e Desenvolvimento de Sistemas 🎓💻🤖
 
-- 👀 I’m interested in ... Python, Java Script, desenvolvimento web e inteligência artificial.
-- 💞️ I’m looking to collaborate on ...Conteúdos educativos e motivadores 
-- 😄 Pronouns: ...Ela
-- ⚡ Fun fact: ...Sou apaixonada por resolver problemas de programação e sempre em busca de novos desafios!
 
 <!---
 herika-dev/herika-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +14,13 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
+![Herika GitHub stats](https://github-readme-stats.vercel.app/api?username=herika-dev&show_icons=true&theme=cobalt)
+
+# Tecnologias do meu dia a dia
+ <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  <img align="center" alt="Mysql" height="35" width="45" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  <img align="center" alt="Photoshop" height="35" width="45" src="https://aleen42.github.io/badges/src/photoshop.svg"> 
+<img align="center" alt="Illustrastrator" height="35" width="45" src="https://aleen42.github.io/badges/src/illustrator.svg"> 
+
+ 
+ 
+
+ - ⚡Apaixonada por resolver problemas de programação e sempre em busca de novos desafios!
